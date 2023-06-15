@@ -1,0 +1,12 @@
+/*CARDCONTAINER*/
+
+.card-container {
+    display: flex;
+}
+
+
+@media screen and (max-width: 768px){
+  .card-container {
+    display: block;
+  }
+}

@@ -1,0 +1,36 @@
+.loader-container {
+    width: 40%;
+    height: 28em;
+    margin: 1em auto;
+}
+
+.loader {
+    width: 100px;
+    margin: 10em auto;
+    display: block;
+}
+
+svg {
+    color: red;
+}
+
+.card {
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px black;
+}
+
+
+@media screen and (max-width: 500px){
+    .loader-container {
+        width: 70vw;
+        height: 55vh;
+    }
+}
+
+@media screen and (min-width: 500px ) and (max-width: 768px){
+    .loader-container {
+        width: 40vw;
+        height: 50vh;
+    }
+}

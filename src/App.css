@@ -1,0 +1,45 @@
+.container {
+  background-color: #3E3E3E;
+  width: 50vw;
+  height: 93vh;
+  margin: 1em auto;
+  border: 2px solid black;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px gray;
+}
+
+.container h1 {
+  margin: .3em;
+  text-align: center;
+  color: #fff;
+}
+
+.title {
+  color: #FF4C41;
+}
+
+img {
+  width: 1em;
+}
+
+/*BUTTON*/
+.buttons{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+@media screen and (max-width: 500px){
+  .container {
+    width: 90vw;
+    height: 135vh;
+  }
+
+}
+
+@media screen and (min-width: 500px ) and (max-width: 768px){
+  .container {
+    width: 80vw;
+    height: 110vh;
+  }
+
+}
