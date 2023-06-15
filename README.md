@@ -1,0 +1,2 @@
+# SupertrunfoPokeApi
+ Supertrunfo com PokeApi
