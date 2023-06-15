@@ -1,7 +1,7 @@
 # SUPER TRUNFO POKEAPI
 *(Ainda em desenvolvimento e evolução)*
 
-Este é o meu primeiro projeto desenvolvido do zero.
+Este é o meu primeiro projeto desenvolvido do zero com React e Api.
 
 Desde o meu primeiro contato com JavaScript em uma Imersão Alura, onde com um array fizemos um super trunfo simples, e então em um bootcamp da DIO tive o primeiro contato com a [PokeApi](https://pokeapi.co/). Assim poderia construir o meu próprio com os conhecimentos adquiridos.
 
